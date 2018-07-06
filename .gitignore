@@ -41,4 +41,6 @@ rsconnect/
 start_titanic_neu.R
 key.RData
 grafiken
+train.csv
+test.csv
 
